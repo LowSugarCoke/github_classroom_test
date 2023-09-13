@@ -1,5 +1,5 @@
 #include <iostream> 
-#include<algorithm >
+#include <algorithm>
 #include <cstdlib>
 #include <ctime> 
 using namespace std; 
@@ -53,5 +53,4 @@ int main(){
     	cout << "Position:" << position + 1 << endl<<endl<<endl; 
     	cout<<"輸入搜尋值：";
 	}
-    
 }
